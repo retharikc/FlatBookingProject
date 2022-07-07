@@ -1,1 +1,1 @@
-# FlatBookingProject
+# OnlineFlatRentalProject
